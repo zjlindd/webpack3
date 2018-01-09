@@ -1,0 +1,11 @@
+.zjl {
+  width: 50%;
+  height: 50%;
+  background: darkgoldenrod;
+}
+.zjl ul li {
+  width: 100%;
+  height: 30%;
+  background: forestgreen;
+  text-align: center;
+}
